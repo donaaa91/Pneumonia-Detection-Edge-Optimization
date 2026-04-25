@@ -14,7 +14,4 @@ This project demonstrates the optimization of a deep learning model for pneumoni
 * **Dynamic INT8 Quantization:** Slashing memory footprint by converting weights from FP32 to INT8.
 * **Explainable AI (Grad-CAM):** Visual validation to ensure the model focuses on pulmonary pathology.
 
-## 🚀 How to Use
-1. Open `Edge_Optimization_Main.ipynb` in Google Colab.
-2. Ensure you have your Kaggle API key to pull the NIH/Kaggle Chest X-ray dataset.
-3. The notebook will guide you through the training, distillation, and quantization steps.
+
